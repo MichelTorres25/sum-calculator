@@ -1,2 +1,2 @@
 print("hola enfer")
-prit ("gana experiencia")
+print ("ingeniero pobre")
